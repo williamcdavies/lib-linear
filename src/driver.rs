@@ -1,7 +1,7 @@
 #![allow(dead_code)]
 
-mod matrix;
+mod structures;
 
 fn main()
-{       
+{     let m: structures::matrix::Matrix;
 }
